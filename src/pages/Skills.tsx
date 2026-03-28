@@ -16,11 +16,6 @@ export default function Skills() {
       items: ["C++", "Python", "Java", "JavaScript", "TypeScript"],
     },
     {
-      icon: faCode ,
-      title: "Programming",
-      items: ["C++", "Python", "Java", "JavaScript", "TypeScript"],
-    },
-    {
       icon: faBrain ,
       title: "Machine Learning",
       items: ["Scikit-learn", "Pandas", "Numpy", "Matplotlit"],

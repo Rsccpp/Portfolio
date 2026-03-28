@@ -1,0 +1,21 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footerList {
+    display: flex;
+    gap: 15px;
+    opacity: 0.9;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.footerList a:hover {
+    opacity: 1;
+    font-size: large;
+}

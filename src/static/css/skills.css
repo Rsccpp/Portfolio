@@ -1,0 +1,43 @@
+ /* Skills.tsx */
+.skillContainer {
+    width: 100%;
+    padding: 0 40px;
+}
+
+#skills {
+    display:flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: first baseline;
+    padding-top: 40px;
+    margin-bottom: 40px;
+}
+
+/* SkillsCard.tsx */
+.skillCard {
+    width: 200px;
+    height: 200px;
+    border: 2px solid rgb(178, 160, 160);
+    padding: 30px; 
+    border-radius: 15px;
+    justify-content: center;
+    margin-right: 20px;
+    margin-bottom: 40px;
+    transition: all 0.4s ease;
+    transform: scale(0.95);
+}
+
+.skillCard:hover {
+   transform: translateY(-5px) scale(1);
+}
+
+button {
+    display: inline;
+    margin: 5px;
+    border: 0;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: rgb(247, 244, 244);
+    font-weight: 500;
+}
+

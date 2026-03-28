@@ -1,0 +1,50 @@
+.contact-container {
+    max-width: 80%;
+    color: white;
+    background-color: rgb(27, 25, 25);
+    margin: 0 auto;
+    border-radius: 20px;
+    margin-bottom: 40px;
+    padding: 40px;
+}
+
+.contact {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 30px;
+}
+
+p {
+    opacity: 0.6;
+}
+
+.btn {
+    display: flex;
+    margin-top: 50px;
+}
+
+.btn button {
+    padding: 20px 30px;
+    margin-right: 20px;
+    color: white;
+    font-size: medium;
+}
+
+.email {
+    background-color: rgb(4, 142, 50);
+}
+
+.resume {
+    background-color: rgb(84, 81, 81);
+}
+
+.email:hover {
+    background-color: rgb(5, 83, 31);
+}
+
+.resume:hover {
+    background-color: rgb(68, 65, 65);
+}

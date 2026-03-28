@@ -1,0 +1,44 @@
+.heroContainer {
+    padding: 40px 40px;
+    margin-top: 80px;
+    width: 100%;
+}
+
+
+.heroContainer .available {
+    width: fit-content;
+    font-size: medium;
+    color: black;
+    background-color: #9ae9c6;
+    padding: 5px;
+    border-radius: 5px;
+    font-weight: 900;
+}
+
+.highlight {
+    color: rgb(83, 194, 83);
+    font-weight: 700;
+}
+
+.mail {
+    width: fit-content;
+    font-size: medium;
+    color: white;
+    background-color: #09a562;
+    margin-right: 15px;
+    padding: 15px;
+    box-shadow: 0 5px 5px 0 #15e78c;
+}
+
+.getInTouch .icon {
+    margin-right: 15px;
+    padding: 5px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.getInTouch .icon:hover , .mail:hover{
+    color: black;
+    background-color: rgb(235, 236, 237);
+}
+

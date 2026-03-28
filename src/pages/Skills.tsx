@@ -3,7 +3,6 @@ import "../static/css/skills.css";
 import {
   faBrain,
   faCode,
-  faDatabase,
   faLaptopCode,
   faTerminal,
 } from "@fortawesome/free-solid-svg-icons";

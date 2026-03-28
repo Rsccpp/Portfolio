@@ -59,3 +59,9 @@ Run development server:
 ```bash
 npm run dev
 ```
+---
+
+## 🤝 Contributing
+ Contributions are welcome! Feel free to submit issues and pull requests.
+
+ ```

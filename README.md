@@ -35,13 +35,14 @@ Built with React, TypeScript, and Vite.
 ---
 
 ## 📁 Project Structure
-portfolio
+```text
+Portfolio
 ├─ src
 ├─ public
 ├─ components
 ├─ package.json
 └─ vite.config.ts
-
+```
 ---
 
 ## ⚙️ Installation

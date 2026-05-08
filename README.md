@@ -5,8 +5,7 @@ Built with React, TypeScript, and Vite.
 
 ---
 
-## 🌐 Live Demo
-👉[Click here to try it out!] (https://portfolio-omega-rust-52vw941xk5.vercel.app/)
+## 🌐 Live Demo : [Click here to try it out!](https://portfolio-omega-rust-52vw941xk5.vercel.app/)
 ---
 
 ## 🖼️ Preview

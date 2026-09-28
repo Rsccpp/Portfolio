@@ -17,7 +17,7 @@ export default function Contact() {
             <button className="email">Send an Email</button>
           </a>
           
-          // <button className="resume"> View Resume </button> 
+          {/* <button className="resume"> View Resume </button> */}
           
         </div>
       </div>

@@ -17,7 +17,7 @@ export default function Education() {
       </div>
       <div className="year">
         <p>Year</p>
-        <p><b>Pre-final Year</b></p>
+        <p><b>Final Year</b></p>
       </div>
       <div className="interest">
         <p>Interest</p> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;

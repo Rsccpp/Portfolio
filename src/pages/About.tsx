@@ -17,7 +17,7 @@ export default function About() {
                     About Me
                   </span>
          <p>
-            I am a B.Tech pre-final year undergraduate student with a strong
+            I am a B.Tech final year undergraduate student with a strong
             interest in technology, problem solving, and continuous learning. I
             have developed a solid foundation in programming, data structures,
             algorithms, and software development.
